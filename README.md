@@ -44,12 +44,4 @@ The output will be stored in the `processed` folder located in the same folder w
 **CAPTIONING**
 ----------
 
-**Description**
-
-
-
-**Preparation**
-
-
-
-**Results**
+Check the Captioning folder.
