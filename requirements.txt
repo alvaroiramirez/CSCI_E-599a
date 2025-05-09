@@ -1,0 +1,9 @@
+torch==2.6.0
+torchaudio==2.6.0
+torchvision==0.21.0
+PyYAML==6.0.2
+notebook==7.3.3
+ultralytics==8.3.94
+ultralytics-thop==2.0.14
+requests
+rich

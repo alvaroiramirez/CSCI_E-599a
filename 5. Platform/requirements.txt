@@ -1,0 +1,6 @@
+streamlit
+EXIF
+tensorflow
+ultralytics
+transformers
+pylabel
