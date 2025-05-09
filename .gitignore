@@ -3,6 +3,9 @@
 
 /1.Object_Detection/1.Models/best.pt
 
+/2.Image_Cropping/captioning
+/2.Image_Cropping/detection
+
 /4.LLM/old
 /4.LLM/Cleaning.py
 /4.LLM/pg_finetune.py
